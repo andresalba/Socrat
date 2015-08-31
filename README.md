@@ -1,5 +1,5 @@
 # Socrat
-AIML bot con capacidad de hablar español
+AIML bot terapeuta con capacidad de hablar español
 
 Este bot ha sido creado tomando como referencia el Bot Eliza creado en los 60s por Joseph Weizenbaum.
 This bot was created by taking the Eliza bot created in the 60's by Joseph Weizenbaum as reference.
