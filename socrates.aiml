@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- Bot name : SOCRAT -->
+<!-- Bot name : SOCRAT v1.0 -->
 <!-- Directiva: Terapeuta Cognitivo -->
+<!-- Bot creado por Andres Alba-->
+<!-- Tipo de Bot: Terapeuta basado en el Bot Eliza con capacidad de hablar español-->
 
 <aiml version="1.0">
 
